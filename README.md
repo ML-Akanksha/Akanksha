@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKANKSHA ASLEKAR</h1>
 <h3 align="center">A passionate 𝐃𝐀𝐓𝐀 𝐒𝐂𝐈𝐄𝐍𝐓𝐈𝐒𝐓</h3>
 
-![image](https://user-images.githubusercontent.com/108981048/194834532-87e629d6-7f57-4711-946c-2542c511d4b5.png)
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif">
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
