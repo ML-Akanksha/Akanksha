@@ -1,16 +1,19 @@
-### Hi there 👋
+![helo](https://user-images.githubusercontent.com/89390696/173287660-a6892d56-9be0-40c9-856c-f807ac3a3302.gif)
+<h1 align="center">Hi 👋, I'm AKANKSHA ASLEKAR</h1>
+<h3 align="center">A passionate 𝐃𝐀𝐓𝐀 𝐒𝐂𝐈𝐄𝐍𝐓𝐈𝐒𝐓</h3>
 
-<!--
-**ml-akanksha/ml-akanksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Here are some ideas to get you started:
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning **𝐌𝐋,𝐃𝐋,𝐍𝐋𝐏.**
+
+- 📫 How to reach me **realakankshaa@gmail.com**
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/akanksha-aslekar-49b9a21aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+</p>
