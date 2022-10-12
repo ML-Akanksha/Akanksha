@@ -7,9 +7,9 @@
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-- 🌱 I’m currently learning **𝐌𝐋, 𝐃𝐋, 𝐍𝐋𝐏.**
+- 🌱 ı'м cυяяєηтły łєαяηıηg **𝐌𝐋, 𝐃𝐋, 𝐍𝐋𝐏.**
 
-- 📫 How to reach me **realakankshaa@gmail.com**
+- 📫 нσω тσ яєαcн мє **realakankshaa@gmail.com**
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -21,7 +21,7 @@
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">łαηgυαgєs αη∂ тσσłs:</h3>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
