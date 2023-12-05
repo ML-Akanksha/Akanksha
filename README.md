@@ -8,12 +8,12 @@
 
 - 🌱 ı'м cυяяєηтły łєαяηıηg **𝐃𝐋,𝐍𝐋𝐏.**
 
-- 📫 нσω тσ яєαcн мє **akankshaaslekar3@gmail.com**
+- 📫 нσω тσ яєαcн мє **akankshaaslekar2@gmail.com**
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 <h3 align="left">cσηηєcт ωıтн мє:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akanksha-aslekar--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akanksha-aslekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
